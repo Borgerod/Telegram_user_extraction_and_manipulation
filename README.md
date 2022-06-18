@@ -12,7 +12,7 @@
 
 
 
-Project description
+## Project description
 I made a Telegram bot that did two things.
 - Scraper members fro any group, with the limitations that it can only scrape 4k members from each group.
 - Also allows you to add those scraped members to any groups or channels, that you are admin of.
